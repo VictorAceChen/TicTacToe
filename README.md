@@ -2,4 +2,4 @@
 =============
 Simple Tic Tac Toe
 
-![Alt text](https://raw.githubusercontent.com/VictorAceChen/TicTacToe/master/SampleImage.png "Optional title")
+![Alt text](https://github.com/VictorAceChen/TicTacToe/blob/master/Sample.png "Optional title")
